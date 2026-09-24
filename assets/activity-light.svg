@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="260" viewBox="0 0 860 260" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" role="img" aria-label="Contributions by month, Oct 2025 to Sep 2026">
+  <rect x="0.5" y="0.5" width="859" height="259" rx="8" fill="#FFFFFF" stroke="#D0D7DE"/>
+  <text x="24" y="34" font-size="16" font-weight="600" fill="#121214">Contributions by month</text>
+  <text x="24" y="52" font-size="12" fill="#8C959F">Oct 2025 to Sep 2026</text>
+  <text x="836" y="34" text-anchor="end" font-size="16" font-weight="600" fill="#121214">45</text>
+  <text x="836" y="52" text-anchor="end" font-size="12" fill="#8C959F">total</text>
+  <g>
+    <line x1="52" y1="208.0" x2="836" y2="208.0" stroke="#EAEEF2" stroke-width="1"/>
+    <text x="40" y="212.0" text-anchor="end" font-size="11" fill="#8C959F">0</text>
+    <line x1="52" y1="138.0" x2="836" y2="138.0" stroke="#EAEEF2" stroke-width="1"/>
+    <text x="40" y="142.0" text-anchor="end" font-size="11" fill="#8C959F">10</text>
+    <line x1="52" y1="68.0" x2="836" y2="68.0" stroke="#EAEEF2" stroke-width="1"/>
+    <text x="40" y="72.0" text-anchor="end" font-size="11" fill="#8C959F">20</text>
+  </g>
+  <g>
+    <rect x="67.7" y="138.0" width="34.0" height="70.0" rx="3.0" fill="#121214"/>
+    <text x="84.7" y="130.0" text-anchor="middle" font-size="11" font-weight="600" fill="#57606A">10</text>
+    <text x="84.7" y="228" text-anchor="middle" font-size="12" fill="#57606A">Oct</text>
+    <text x="84.7" y="244" text-anchor="middle" font-size="10" fill="#8C959F">2025</text>
+    <rect x="133.0" y="117.0" width="34.0" height="91.0" rx="3.0" fill="#121214"/>
+    <text x="150.0" y="109.0" text-anchor="middle" font-size="11" font-weight="600" fill="#57606A">13</text>
+    <text x="150.0" y="228" text-anchor="middle" font-size="12" fill="#57606A">Nov</text>
+    <rect x="198.3" y="117.0" width="34.0" height="91.0" rx="3.0" fill="#121214"/>
+    <text x="215.3" y="109.0" text-anchor="middle" font-size="11" font-weight="600" fill="#57606A">13</text>
+    <text x="215.3" y="228" text-anchor="middle" font-size="12" fill="#57606A">Dec</text>
+    <rect x="263.7" y="159.0" width="34.0" height="49.0" rx="3.0" fill="#121214"/>
+    <text x="280.7" y="151.0" text-anchor="middle" font-size="11" font-weight="600" fill="#57606A">7</text>
+    <text x="280.7" y="228" text-anchor="middle" font-size="12" fill="#57606A">Jan</text>
+    <text x="280.7" y="244" text-anchor="middle" font-size="10" fill="#8C959F">2026</text>
+    <rect x="329.0" y="205.0" width="34.0" height="3.0" rx="1.5" fill="#121214"/>
+    <text x="346.0" y="197.0" text-anchor="middle" font-size="11" font-weight="600" fill="#57606A">0</text>
+    <text x="346.0" y="228" text-anchor="middle" font-size="12" fill="#57606A">Feb</text>
+    <rect x="394.3" y="205.0" width="34.0" height="3.0" rx="1.5" fill="#121214"/>
+    <text x="411.3" y="197.0" text-anchor="middle" font-size="11" font-weight="600" fill="#57606A">0</text>
+    <text x="411.3" y="228" text-anchor="middle" font-size="12" fill="#57606A">Mar</text>
+    <rect x="459.7" y="205.0" width="34.0" height="3.0" rx="1.5" fill="#121214"/>
+    <text x="476.7" y="197.0" text-anchor="middle" font-size="11" font-weight="600" fill="#57606A">0</text>
+    <text x="476.7" y="228" text-anchor="middle" font-size="12" fill="#57606A">Apr</text>
+    <rect x="525.0" y="205.0" width="34.0" height="3.0" rx="1.5" fill="#121214"/>
+    <text x="542.0" y="197.0" text-anchor="middle" font-size="11" font-weight="600" fill="#57606A">0</text>
+    <text x="542.0" y="228" text-anchor="middle" font-size="12" fill="#57606A">May</text>
+    <rect x="590.3" y="205.0" width="34.0" height="3.0" rx="1.5" fill="#121214"/>
+    <text x="607.3" y="197.0" text-anchor="middle" font-size="11" font-weight="600" fill="#57606A">0</text>
+    <text x="607.3" y="228" text-anchor="middle" font-size="12" fill="#57606A">Jun</text>
+    <rect x="655.7" y="205.0" width="34.0" height="3.0" rx="1.5" fill="#121214"/>
+    <text x="672.7" y="197.0" text-anchor="middle" font-size="11" font-weight="600" fill="#57606A">0</text>
+    <text x="672.7" y="228" text-anchor="middle" font-size="12" fill="#57606A">Jul</text>
+    <rect x="721.0" y="205.0" width="34.0" height="3.0" rx="1.5" fill="#121214"/>
+    <text x="738.0" y="197.0" text-anchor="middle" font-size="11" font-weight="600" fill="#57606A">0</text>
+    <text x="738.0" y="228" text-anchor="middle" font-size="12" fill="#57606A">Aug</text>
+    <rect x="786.3" y="194.0" width="34.0" height="14.0" rx="3.0" fill="#121214"/>
+    <text x="803.3" y="186.0" text-anchor="middle" font-size="11" font-weight="600" fill="#57606A">2</text>
+    <text x="803.3" y="228" text-anchor="middle" font-size="12" fill="#57606A">Sep</text>
+  </g>
+</svg>
